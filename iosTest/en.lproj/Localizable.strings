@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  iosTest
+
+  Created by Александра Згонникова on 24.07.2025.
+  
+*/
+
+"auth" = "Авторизация";
+"login" = "Логин";
+"password" = "Пароль";
+"login" = "Войти";
+
+"wrongCreds" = "Неверный логин или пароль";
+"authSaccess" = "Вход выполнен успешно";
+
+/// navigation bar
+"menu" = "Меню";
+"contacts" = "Контаты";
+"profile" = "Пофиль";
+"basket" = "Корзина";
+
+
+"city" = "Город";
